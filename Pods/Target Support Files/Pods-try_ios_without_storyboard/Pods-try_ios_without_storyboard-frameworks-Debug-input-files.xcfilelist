@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-try_ios_without_storyboard/Pods-try_ios_without_storyboard-frameworks.sh
+${PODS_ROOT}/TTNetworkManager/TTNetworkManager.framework
+${PODS_ROOT}/TTNetworkManager/TTNetworkManager.framework.dSYM

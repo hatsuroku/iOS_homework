@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>A-1 广东</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-2 湖南</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-3 北京</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-14 广西</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-9 河南</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 河北</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 湖北</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 湖南</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 山东</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 山西</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 陕西</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 甘肃</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 黑龙江</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 西藏</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 青海</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 宁夏</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 贵州</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 台湾</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 香港</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 澳门</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 云南</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 上海</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 重庆</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 四川</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 江苏</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 浙江</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 海南</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 内蒙古</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 新疆</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>A-1 某个国家</string>
+		<key>image</key>
+		<string>avatar.png</string>
+	</dict>
+</array>
+</plist>
